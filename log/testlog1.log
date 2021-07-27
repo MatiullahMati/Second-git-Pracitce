@@ -1,0 +1,195 @@
+2021-07-08 19:27:25,737 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 19:27:31,233 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-08 19:30:57,490 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 19:31:00,278 [main] INFO logger_File - Login to MyAccount   undefined
+2021-07-08 20:31:33,310 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:31:37,226 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:31:37,568 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:31:37,825 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:31:37,894 [main] INFO logger_File - user entered email
+2021-07-08 20:31:37,964 [main] INFO logger_File - user entered password
+2021-07-08 20:31:38,477 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:31:43,639 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:31:44,272 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-08 20:42:25,491 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:42:28,956 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:42:29,270 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:42:29,468 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:42:29,532 [main] INFO logger_File - user entered email
+2021-07-08 20:42:29,593 [main] INFO logger_File - user entered password
+2021-07-08 20:42:30,107 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:42:35,278 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:42:35,901 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-08 20:56:39,895 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:56:45,050 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:56:45,348 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:56:45,571 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:56:45,666 [main] INFO logger_File - user entered email
+2021-07-08 20:56:45,731 [main] INFO logger_File - user entered password
+2021-07-08 20:56:46,375 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:56:51,539 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:56:52,195 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-08 20:57:04,703 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-08 20:57:15,681 [main] INFO logger_File - Retail Website is opened
+2021-07-08 20:57:15,993 [main] INFO logger_File - User clicked on MyAccount
+2021-07-08 20:57:16,225 [main] INFO logger_File - User Clicked on Login
+2021-07-08 20:57:16,307 [main] INFO logger_File - user entered email
+2021-07-08 20:57:16,376 [main] INFO logger_File - user entered password
+2021-07-08 20:57:17,270 [main] INFO logger_File - user clicked on login button
+2021-07-08 20:57:22,428 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-08 20:57:23,067 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-09 15:51:16,769 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 15:51:31,824 [main] INFO logger_File - Login to MyAccount   failed
+2021-07-09 15:53:10,803 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 15:53:20,806 [main] INFO logger_File - Retail Website is opened
+2021-07-09 15:53:21,821 [main] INFO logger_File - User clicked on MyAccount
+2021-07-09 15:53:22,605 [main] INFO logger_File - User Clicked on Login
+2021-07-09 15:53:22,923 [main] INFO logger_File - user entered email
+2021-07-09 15:53:23,360 [main] INFO logger_File - user entered password
+2021-07-09 15:53:24,327 [main] INFO logger_File - user clicked on login button
+2021-07-09 15:53:29,511 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-09 15:53:30,651 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-09 16:51:19,036 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-09 16:51:26,248 [main] INFO logger_File - Retail Website is opened
+2021-07-09 16:51:26,891 [main] INFO logger_File - User clicked on MyAccount
+2021-07-09 16:51:27,481 [main] INFO logger_File - User Clicked on Login
+2021-07-09 16:51:27,801 [main] INFO logger_File - user entered email
+2021-07-09 16:51:28,038 [main] INFO logger_File - user entered password
+2021-07-09 16:51:28,973 [main] INFO logger_File - user clicked on login button
+2021-07-09 16:51:34,137 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-11 10:34:21,376 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-11 10:34:29,454 [main] INFO logger_File - Retail Website is opened
+2021-07-11 10:34:29,966 [main] INFO logger_File - User clicked on MyAccount
+2021-07-11 10:34:30,537 [main] INFO logger_File - User Clicked on Login
+2021-07-11 10:34:30,829 [main] INFO logger_File - user entered email
+2021-07-11 10:34:31,145 [main] INFO logger_File - user entered password
+2021-07-11 10:34:31,947 [main] INFO logger_File - user clicked on login button
+2021-07-11 10:34:37,200 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-11 10:34:38,120 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-12 22:09:06,300 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-12 22:09:13,867 [main] INFO logger_File - Retail Website is opened
+2021-07-12 22:09:14,485 [main] INFO logger_File - User clicked on MyAccount
+2021-07-12 22:09:15,084 [main] INFO logger_File - User Clicked on Login
+2021-07-12 22:09:15,481 [main] INFO logger_File - user entered email
+2021-07-12 22:09:15,751 [main] INFO logger_File - user entered password
+2021-07-12 22:09:16,632 [main] INFO logger_File - user clicked on login button
+2021-07-12 22:09:21,827 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-12 22:09:22,649 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-13 13:28:07,442 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 13:28:14,482 [main] INFO logger_File - Retail Website is opened
+2021-07-13 13:28:14,945 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 13:28:15,587 [main] INFO logger_File - User Clicked on Login
+2021-07-13 13:28:15,859 [main] INFO logger_File - user entered email
+2021-07-13 13:28:16,058 [main] INFO logger_File - user entered password
+2021-07-13 13:28:17,438 [main] INFO logger_File - user clicked on login button
+2021-07-13 13:28:22,644 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 13:28:23,492 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 13:28:23,503 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 13:28:28,480 [main] INFO logger_File - Retail Website is opened
+2021-07-13 13:28:28,885 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 13:28:30,403 [main] INFO logger_File - User Clicked on Login
+2021-07-13 13:28:30,646 [main] INFO logger_File - user entered email
+2021-07-13 13:28:30,851 [main] INFO logger_File - user entered password
+2021-07-13 13:28:33,834 [main] INFO logger_File - user clicked on login button
+2021-07-13 13:28:39,035 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 13:28:39,956 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 13:28:39,975 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 13:28:44,369 [main] INFO logger_File - Retail Website is opened
+2021-07-13 13:28:44,816 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 13:28:45,338 [main] INFO logger_File - User Clicked on Login
+2021-07-13 13:28:45,687 [main] INFO logger_File - user entered email
+2021-07-13 13:28:45,866 [main] INFO logger_File - user entered password
+2021-07-13 13:28:46,720 [main] INFO logger_File - user clicked on login button
+2021-07-13 13:28:51,912 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 13:28:52,870 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 13:40:32,928 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-13 13:40:40,049 [main] INFO logger_File - Retail Website is opened
+2021-07-13 13:40:40,852 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 13:40:41,425 [main] INFO logger_File - User Clicked on Login
+2021-07-13 13:40:41,688 [main] INFO logger_File - user entered email
+2021-07-13 13:40:41,971 [main] INFO logger_File - user entered password
+2021-07-13 13:40:42,804 [main] INFO logger_File - user clicked on login button
+2021-07-13 13:40:47,986 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 13:40:48,849 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-13 13:40:48,870 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 13:40:53,950 [main] INFO logger_File - Retail Website is opened
+2021-07-13 13:40:54,423 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 13:40:55,502 [main] INFO logger_File - User Clicked on Login
+2021-07-13 13:40:55,811 [main] INFO logger_File - user entered email
+2021-07-13 13:40:56,043 [main] INFO logger_File - user entered password
+2021-07-13 13:40:56,933 [main] INFO logger_File - user clicked on login button
+2021-07-13 13:41:02,144 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 13:41:02,949 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 13:41:02,968 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 13:41:08,216 [main] INFO logger_File - Retail Website is opened
+2021-07-13 13:41:08,572 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 13:41:09,204 [main] INFO logger_File - User Clicked on Login
+2021-07-13 13:41:09,499 [main] INFO logger_File - user entered email
+2021-07-13 13:41:09,790 [main] INFO logger_File - user entered password
+2021-07-13 13:41:10,556 [main] INFO logger_File - user clicked on login button
+2021-07-13 13:41:15,764 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 13:41:16,561 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 13:41:16,582 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-13 13:41:24,033 [main] INFO logger_File - Retail Website is opened
+2021-07-13 13:41:24,491 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 13:41:25,068 [main] INFO logger_File - User Clicked on Login
+2021-07-13 13:41:25,369 [main] INFO logger_File - user entered email
+2021-07-13 13:41:25,536 [main] INFO logger_File - user entered password
+2021-07-13 13:41:26,371 [main] INFO logger_File - user clicked on login button
+2021-07-13 13:41:31,594 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-13 13:41:32,524 [main] INFO logger_File - Login to MyAccount with Multiple users   passed
+2021-07-13 13:41:32,547 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-13 13:41:45,871 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-13 16:06:57,153 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-13 16:07:03,462 [main] INFO logger_File - Retail Website is opened
+2021-07-13 16:07:04,454 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 16:07:09,951 [main] INFO logger_File - Register new user to Retail Website   undefined
+2021-07-13 16:57:40,979 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-13 16:57:47,760 [main] INFO logger_File - Retail Website is opened
+2021-07-13 16:57:48,329 [main] INFO logger_File - User clicked on MyAccount
+2021-07-13 16:57:49,381 [main] INFO logger_File - User click on Register option
+2021-07-13 16:57:51,658 [main] INFO logger_File - Register new user to Retail Website   passed
+2021-07-14 09:26:26,443 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-14 09:26:36,510 [main] INFO logger_File - Retail Website is opened
+2021-07-14 09:26:37,005 [main] INFO logger_File - User clicked on MyAccount
+2021-07-14 09:26:40,035 [main] INFO logger_File - User click on Register option
+2021-07-14 09:26:41,033 [main] INFO logger_File - User filled information form
+2021-07-14 09:26:41,142 [main] INFO logger_File - User accpet the privacy and policy
+2021-07-14 09:26:46,225 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-14 09:32:03,933 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-14 09:32:11,494 [main] INFO logger_File - Retail Website is opened
+2021-07-14 09:32:11,972 [main] INFO logger_File - User clicked on MyAccount
+2021-07-14 09:32:13,113 [main] INFO logger_File - User click on Register option
+2021-07-14 09:32:25,183 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-14 09:34:41,768 [main] INFO logger_File - Scenario Register new user to Retail Website Started
+2021-07-14 09:34:48,452 [main] INFO logger_File - Retail Website is opened
+2021-07-14 09:34:49,235 [main] INFO logger_File - User clicked on MyAccount
+2021-07-14 09:34:50,393 [main] INFO logger_File - User click on Register option
+2021-07-14 09:34:51,440 [main] INFO logger_File - User filled information form
+2021-07-14 09:34:51,556 [main] INFO logger_File - User accpet the privacy and policy
+2021-07-14 09:34:52,774 [main] INFO logger_File - Register new user to Retail Website   failed
+2021-07-21 21:09:42,109 [main] INFO logger_File - Scenario Login to MyAccount Started
+2021-07-21 21:09:49,572 [main] INFO logger_File - Retail Website is opened
+2021-07-21 21:09:50,208 [main] INFO logger_File - Retail Website is opened
+2021-07-21 21:09:50,756 [main] INFO logger_File - User clicked on MyAccount
+2021-07-21 21:09:51,391 [main] INFO logger_File - User Clicked on Login
+2021-07-21 21:09:51,797 [main] INFO logger_File - user entered email
+2021-07-21 21:09:52,013 [main] INFO logger_File - user entered password
+2021-07-21 21:09:53,108 [main] INFO logger_File - user clicked on login button
+2021-07-21 21:09:58,338 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-07-21 21:09:59,145 [main] INFO logger_File - Login to MyAccount   passed
+2021-07-21 21:09:59,154 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-21 21:10:03,790 [main] INFO logger_File - Retail Website is opened
+2021-07-21 21:10:04,434 [main] INFO logger_File - Retail Website is opened
+2021-07-21 21:10:04,919 [main] INFO logger_File - User clicked on MyAccount
+2021-07-21 21:10:05,379 [main] INFO logger_File - User Clicked on Login
+2021-07-21 21:10:05,671 [main] INFO logger_File - user entered email
+2021-07-21 21:10:05,927 [main] INFO logger_File - user entered password
+2021-07-21 21:10:06,757 [main] INFO logger_File - user clicked on login button
+2021-07-21 21:10:24,185 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-21 21:10:29,127 [main] INFO logger_File - Retail Website is opened
+2021-07-21 21:10:29,769 [main] INFO logger_File - Retail Website is opened
+2021-07-21 21:10:30,167 [main] INFO logger_File - User clicked on MyAccount
+2021-07-21 21:10:30,481 [main] INFO logger_File - User Clicked on Login
+2021-07-21 21:10:35,179 [main] INFO logger_File - Scenario Login to MyAccount with Multiple users Started
+2021-07-21 21:10:39,781 [main] INFO logger_File - Retail Website is opened

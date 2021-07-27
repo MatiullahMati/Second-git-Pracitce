@@ -1,0 +1,7 @@
+Feature: search option validation 
+@search
+Scenario: validate search option is working
+Given: user is on retail  website
+When: user type 'iphone' on search bar
+And: user click on search icon
+Then: user should see available iphone
